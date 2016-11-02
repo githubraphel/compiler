@@ -1,0 +1,250 @@
+public	TOKWORD
+
+class	TOKWORD
+
+CrunchifyFibonacci	TOKWORD
+
+{	TOKOP
+
+public	TOKWORD
+
+static	TOKWORD
+
+void	TOKWORD
+
+main	TOKWORD
+
+(	TOKOP
+
+String	TOKWORD
+
+args	TOKWORD
+
+[	TOKOP
+
+]	TOKOP
+
+)	TOKOP
+
+{	TOKOP
+
+/	TOKOP
+
+/	TOKOP
+
+input	TOKWORD
+
+to	TOKWORD
+
+print	TOKWORD
+
+Fibonacci	TOKWORD
+
+series	TOKWORD
+
+upto	TOKWORD
+
+how	TOKWORD
+
+many	TOKWORD
+
+numbers	TOKWORD
+
+System	TOKWORD
+
+.	TOKOP
+
+out	TOKWORD
+
+.	TOKOP
+
+print	TOKWORD
+
+(	TOKOP
+
+"	TOKOP
+
+Enter	TOKWORD
+
+number	TOKWORD
+
+upto	TOKWORD
+
+which	TOKWORD
+
+Fibonacci	TOKWORD
+
+series	TOKWORD
+
+to	TOKWORD
+
+print	TOKWORD
+
+:	TOKOP
+
+"	TOKOP
+
+)	TOKOP
+
+;	TOKOP
+
+int	TOKWORD
+
+number	TOKWORD
+
+=	TOKOP
+
+new	TOKWORD
+
+Scanner	TOKWORD
+
+(	TOKOP
+
+System	TOKWORD
+
+.	TOKOP
+
+in	TOKWORD
+
+)	TOKOP
+
+.	TOKOP
+
+nextInt	TOKWORD
+
+(	TOKOP
+
+)	TOKOP
+
+;	TOKOP
+
+System	TOKWORD
+
+.	TOKOP
+
+out	TOKWORD
+
+.	TOKOP
+
+println	TOKWORD
+
+(	TOKOP
+
+"	TOKOP
+
+\	TOKOP
+
+n	TOKWORD
+
+\	TOKOP
+
+nFibonacci	TOKWORD
+
+series	TOKWORD
+
+upto	TOKWORD
+
+"	TOKOP
+
++	TOKOP
+
+number	TOKWORD
+
++	TOKOP
+
+"	TOKOP
+
+numbers	TOKWORD
+
+:	TOKOP
+
+"	TOKOP
+
+)	TOKOP
+
+;	TOKOP
+
+/	TOKOP
+
+/	TOKOP
+
+printing	TOKWORD
+
+Fibonacci	TOKWORD
+
+series	TOKWORD
+
+upto	TOKWORD
+
+10	TOKNUMBER
+
+numbers	TOKWORD
+
+for	TOKWORD
+
+(	TOKOP
+
+int	TOKWORD
+
+i	TOKWORD
+
+=	TOKOP
+
+1	TOKNUMBER
+
+;	TOKOP
+
+i	TOKWORD
+
+<	TOKOP
+
+=	TOKOP
+
+number	TOKWORD
+
+;	TOKOP
+
+i	TOKWORD
+
++	TOKOP
+
++	TOKOP
+
+)	TOKOP
+
+{	TOKOP
+
+System	TOKWORD
+
+.	TOKOP
+
+out	TOKWORD
+
+.	TOKOP
+
+print	TOKWORD
+
+(	TOKOP
+
+fibonacciRecusion	TOKWORD
+
+(	TOKOP
+
+i	TOKWORD
+
+)	TOKOP
+
++	TOKOP
+
+"	TOKOP
+
+"	TOKOP
+
+)	TOKOP
+
+;	TOKOP
+
+}	TOKOP
+
+}	TOKOP
+
